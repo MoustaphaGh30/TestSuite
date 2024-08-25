@@ -2,7 +2,7 @@
 
 ## Overview
 
-**TestSuite** is a comprehensive tool designed to assist developers in writing unit tests and docstrings for their code. By leveraging the Google Gemini API with the `dspy` library, TestSuite generates accurate and relevant docstrings and unit tests based on the provided code and expected output. Additionally, it measures code coverage and provides detailed coverage reports to ensure the effectiveness of your test cases.
+**TestSuite** is a comprehensive tool designed to assist developers in writing unit tests and docstrings for their code. By leveraging the Google Gemini API with the `dspy` library used to converge the output of the model towards the specifications needed, and force it to give the output in the correct format TestSuite generates accurate and relevant docstrings and unit tests based on the provided code and expected output. Additionally, it measures code coverage and provides detailed coverage reports to ensure the effectiveness of your test cases.
 
 ## Features
 
