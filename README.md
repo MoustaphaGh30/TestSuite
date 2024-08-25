@@ -8,7 +8,7 @@
 
 - **Docstring Generation**: Automatically generate docstrings for your code based on the given code and expected output.
 - **Unit Test Creation**: Create unit tests that validate the correctness of your code against the expected output.
-  
+- **Coverage Reporting**: Generate detailed reports on test coverage to identify untested code and improve overall test quality.  
 ## Technologies
 
 - **Frontend**: React
@@ -29,7 +29,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/testsuite.git
+   git clone https://github.com/MoustaphaGh30/TestSuite.git
    cd testsuite
    ```
 
