@@ -30,6 +30,8 @@
    https://testsuite-1.onrender.com/
   ```
 
+### OR
+
 ### Installation
 
 1. **Clone the repository:**
