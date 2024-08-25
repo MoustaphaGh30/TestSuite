@@ -57,7 +57,16 @@ class TestMyFunctions(unittest.TestCase):
         self.assertEqual(multiply(2, 3), 6)
         self.assertEqual(multiply(-1, 5), -5)
         self.assertEqual(multiply(0, 100), 0)
-    ```bash
+    ```
+Output
+```bash
+Name                  Stmts   Miss  Cover   Missing
+---------------------------------------------------
+/tmp/tmp5djkx7t9.py      31     26    16%   2-11, 15-17, 19-21, 23-25, 27-35
+---------------------------------------------------
+TOTAL                    31     26    16%
+16.129032258064516
+```
 ### OR
 
 ### Installation
