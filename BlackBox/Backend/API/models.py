@@ -4,7 +4,8 @@ import dspy
 import os
 import coverage
 
-api_key = "AIzaSyBYEmC0DnXLqEUaH1gg0try7iWFX3S7QAk"
+#gemini api key
+api_key = "your-api-key"
 
 
 gemini = dspy.Google("models/gemini-1.5-flash", api_key=api_key)
